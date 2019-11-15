@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ProjectTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"a",
+		"b"
+	],
+	"name" : "PruebaClass",
+	"type" : "normal"
+}

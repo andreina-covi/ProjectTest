@@ -1,0 +1,3 @@
+accessing
+b
+	^ 2
